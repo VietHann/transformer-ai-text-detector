@@ -1,2 +1,7 @@
-# transformer-ai-text-detector
-A deep learning-based system for distinguishing AI-generated and human-written texts, supporting both English and Vietnamese. Built from scratch using a custom Transformer encoder architecture and deployed as a real-time REST API.
+### Report Snapshot
+
+![Page 1](jpg/0.jpg)
+![Page 2](jpg/1.jpg)
+![Page 3](jpg/2.jpg)
+![Page 4](jpg/3.jpg)
+![Page 5](jpg/4.jpg)
